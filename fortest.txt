@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwqewqeqweqweqw
+=======
+wqeqwasdaczxczxzc
+>>>>>>> test
